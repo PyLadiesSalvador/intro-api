@@ -1,0 +1,5 @@
+# Arquivos do ambiente virtual
+/venv
+
+# Arquivos dos Pycharm
+.idea

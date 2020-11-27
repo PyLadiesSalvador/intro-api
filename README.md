@@ -1,2 +1,7 @@
-# intro-api
-Prática do grupo de estudos Ó Py Ó
+<img src="imagens/orgulhe-se.png">
+
+## API Rest com Flask
+
+O Flask em sua essência procura manter uma estrutura simples mas extensível.
+De forma que muitas das decisões e funcionalidades sejam escolhidas por você ao 
+escolher usar determinada biblioteca para integração com um banco de dados específico, por exemplo.

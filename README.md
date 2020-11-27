@@ -1,7 +1,15 @@
-<img src="imagens/orgulhe-se.png">
+<img src="orgulhe-se.png">
 
-## API Rest com Flask
+# Introdução a API com Flask
 
-O Flask em sua essência procura manter uma estrutura simples mas extensível.
-De forma que muitas das decisões e funcionalidades sejam escolhidas por você ao 
-escolher usar determinada biblioteca para integração com um banco de dados específico, por exemplo.
+Introduzindo a construção de API’s (Application Programming Interface) 
+que são uma espécie de interface com os dados ou rotinas de outro sistema.
+
+O Flask é um framework que facilita a construção de APIs em Python,
+em sua essência procura manter uma estrutura simples mas extensível, 
+permitindo várias customizações a partir de outras bibliotecas.
+
+## Comandos:
+
+1. Ativando o ambiente virtual: `source venv/bin/activate`
+2. Rodando a API: `python run.py`
